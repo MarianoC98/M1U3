@@ -1,0 +1,60 @@
+p{
+    color: red;
+    text-align: center;
+}
+
+h1{
+    color: black;
+    background-color:red;
+    text-align: center;
+    font-family: italic;
+    font-size: 25px;
+}
+
+ol{
+    color: red;
+}
+
+ul{
+    color: red
+}
+
+
+.caja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1890px;
+    height: 400px;
+    background-color: white;
+}
+
+.caja img{
+    width: 450px;
+    height: 400px;
+}
+
+h5{
+    font-size: 20px;
+    background-color: red;
+}
+
+.destacados{
+    color: black;
+    background-color: yellow;
+}
+
+h2{
+    font-family: cursive;
+}
+
+h3{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.centrar{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
